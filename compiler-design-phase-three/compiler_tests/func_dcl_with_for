@@ -1,0 +1,35 @@
+include "string" ;
+include "test" ;
+
+extern int a ;
+
+int t ( int a ) {
+    for (int i = 0 ;i < n;i++){
+        a = b ;
+        a = b* 2 ;
+        a = c * 2 ;
+    }
+    goto A ;
+    return a ;
+
+}
+
+int x()
+{
+    if (c == d && d == h)
+    {
+        if ( true ){
+            goto A ;
+        }else{
+            goto B ;
+        }
+    }
+    else if(a == b) {
+        a = h*2 ;
+    }
+    else{
+        a = 10 ;
+    }
+    a ();
+}
+

@@ -1,0 +1,16 @@
+include "string" ;
+include "test" ;
+
+int x()
+{
+    const int ;
+    int a ;
+    int[] b ;
+    int b[] ;
+    const int a() ;
+    const int a(a,b) ;
+    int a() ;
+    const int a ;
+    const char c(a[][][],b) ;
+
+}

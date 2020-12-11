@@ -1,0 +1,13 @@
+include "string" ;
+include "test" ;
+int b ;
+int x()
+{
+    const int ;
+    int a() ;
+    a[2] = a[3] + c;
+    do
+    {
+    }
+    while(a > 2);
+}

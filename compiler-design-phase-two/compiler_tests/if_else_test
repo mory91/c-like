@@ -1,0 +1,19 @@
+include "string" ;
+include "test" ;
+
+int a(bool b,bool c) ;
+
+int x()
+{
+    if (c == d && d == h)
+    {
+        int d ;
+    }
+    else if(a == b) {
+        a = h*2 ;
+    }
+    else{
+        a = 10 ;
+    }
+    a ();
+}

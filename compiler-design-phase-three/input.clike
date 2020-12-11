@@ -1,0 +1,15 @@
+int x ;
+const int h = 10 ;
+int f(int p){
+
+}
+void f()
+{
+
+ int a = 2;
+ x = a + x ;
+}
+int start()
+{
+ f();
+}

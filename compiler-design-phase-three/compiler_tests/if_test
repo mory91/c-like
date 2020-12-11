@@ -1,0 +1,13 @@
+include "string" ;
+include "test" ;
+
+int a(bool b,bool c) ;
+
+int x()
+{
+    if (c == d)
+    {
+        int d ;
+    }
+    a ();
+}

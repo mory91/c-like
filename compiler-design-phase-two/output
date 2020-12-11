@@ -1,0 +1,15 @@
+token : 13 text : int
+token : 65 text : x
+token : 31 text : (
+token : 32 text : )
+token : 33 text : {
+token : 13 text : int
+token : 65 text : a
+token : 41 text : =
+token : 64 text : 5 value : 5
+token : 37 text : ;
+token : 65 text : a
+token : 54 text : ++
+token : 37 text : ;
+token : 34 text : }
+token : 68 text : <<EOF>>

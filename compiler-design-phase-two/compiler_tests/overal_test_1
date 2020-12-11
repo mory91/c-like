@@ -1,0 +1,56 @@
+include "string" ;
+include "test" ;
+
+extern int a ;
+
+%& this is a comment &%
+
+
+int t ( int a ) {
+    for (int i = 0 ;i < n;i++){
+
+        for (int j = 1; j > 2; j = j - 1){
+            while (false){
+               ++b ;
+            }
+        }
+
+        if (c == d && d == h)
+        {
+            if ( true ){
+                goto A ;
+            }else{
+                goto B ;
+            }
+        }
+        else if(a == b) {
+            a = h*2 ;
+        }
+        else{
+            a = 10 ;
+        }
+        a ();
+    }
+
+}
+
+
+int x()
+{
+    if (c == d && d == h)
+    {
+        if ( true ){
+            goto A ;
+        }else{
+            goto B ;
+        }
+    }
+    else if(a == b) {
+        a = h*2 ;
+    }
+    else{
+        a = 10 ;
+    }
+    a ();
+}
+

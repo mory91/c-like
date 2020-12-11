@@ -1,0 +1,43 @@
+
+%& this is a comment &%
+char f(){
+    for (;a<b;){
+        return f(a[10],a,b) ;
+    }
+    while(a == b){
+        do{
+            ++a;
+            --a;
+            a++;
+            a--;
+            
+        }
+        while (c == d);
+    }
+}
+int x()
+{
+    goto A ;
+    switch (a){
+        case 0 : {
+            a++ ;
+            a = a+ 10 ;
+            A[10][10][10] = 1 ;
+            a[20] = a[1] ;
+            for (i = 0 ;i > n;i--){
+
+            }
+        }
+        case 1 : {
+            a++ ;
+            a = a+ 10 ;
+            for (;i > n;i--){
+                a[i] = i+1 ;
+                break ;
+            }
+        }
+        default :
+            return 0 ;
+    }
+}
+

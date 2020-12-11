@@ -1,0 +1,6 @@
+
+CODE: 
+LBL f  
+PSH   4
+STR @^-4 #2 4
+POP   4
